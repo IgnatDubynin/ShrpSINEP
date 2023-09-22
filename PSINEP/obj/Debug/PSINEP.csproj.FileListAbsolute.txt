@@ -1,0 +1,15 @@
+D:\SINEP\ShrpSINEP\PSINEP\bin\Debug\PSINEP.exe.config
+D:\SINEP\ShrpSINEP\PSINEP\bin\Debug\PSINEP.exe
+D:\SINEP\ShrpSINEP\PSINEP\bin\Debug\PSINEP.pdb
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.csproj.AssemblyReference.cache
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.Properties.Resources.resources
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.csproj.GenerateResource.cache
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.csproj.CoreCompileInputs.cache
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.exe
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.pdb
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.fmMain.resources
+D:\SINEP\ShrpSINEP\PSINEP\bin\Debug\MathNet.Numerics.dll
+D:\SINEP\ShrpSINEP\PSINEP\bin\Debug\System.ValueTuple.dll
+D:\SINEP\ShrpSINEP\PSINEP\bin\Debug\MathNet.Numerics.xml
+D:\SINEP\ShrpSINEP\PSINEP\bin\Debug\System.ValueTuple.xml
+D:\SINEP\ShrpSINEP\PSINEP\obj\Debug\PSINEP.csproj.CopyComplete
